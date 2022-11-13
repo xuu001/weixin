@@ -21,11 +21,11 @@
 # 选择天行数据接口，可为省，市，区，县，不支持国外城市，并且地区不能携带省、市、区、县，如广州市直接写广州即可
 "region": "洛阳",
 # 生日1，在日期前加r代表农历生日
-"birthday1": {"name": "瑞宝", "birthday": "2003-06-12"},
+"birthday1": {"name": "瑞宝", "birthday": "r2003-06-12"},
 # 生日2
 "birthday2": {"name": "小许", "birthday": "r2001-01-04"},
 # 纪念日1，会计算累计时间，格式"YYYY-MM-DD"
-"commemoration_day1": "2021-10-1",
+"commemoration_day1": "2021-10-01",
 # 纪念日2，同上
 "commemoration_day2": "2021-01-01",
 # 倒计时1，日期不小于当天日期
@@ -55,7 +55,7 @@
 "color_pm2p5":                    "",          # pm2.5字体颜色
 "color_proposal":                 "",          # 今日建议字体颜色
 "color_chp":                      "",          # 彩虹屁字体颜色
-"color_birthday1":                "#90EE90",          # 生日1字体颜色
+"color_birthday1":                "",          # 生日1字体颜色
 "color_birthday2":                "",          # 生日2字体颜色
 "color_commemoration_day1":       "",          # 纪念日1字体颜色
 "color_commemoration_day2":       "",          # 纪念日2字体颜色
