@@ -5,7 +5,7 @@
 # 公众号appSecret
 "app_secret": "af794eff44770942deb9f45ad4e7ba4f",
 # 模板消息id
-"template_id": "MDL6SEFBiSon8rZifCw2QT3j-JFxi81I_NyzGTEOrvQ",
+"template_id": "hnqpoQvilqFG8JxpDs6OU-DzjRh0Y5CMbFMQQUq-kjk",
 # 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
 "user": ["omSR_6etQluHOEgvG6WwrmU9oJcU", "omSR_6cZ6jM93Tz6DLdUOFqSNZxI"],
 
@@ -25,7 +25,7 @@
 # 生日2
 "birthday2": {"name": "小许", "birthday": "r2001-01-04"},
 # 纪念日1，会计算累计时间，格式"YYYY-MM-DD"
-"commemoration_day1": "2022-10-01",
+#"commemoration_day1": "2022-10-01",
 # 纪念日2，同上
 "commemoration_day2": "2021-01-01",
 # 倒计时1，日期不小于当天日期
